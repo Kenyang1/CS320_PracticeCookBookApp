@@ -31,3 +31,4 @@ C:\Users\kenya\CS320_PracticeCookBookApp\MyCookBookApi\obj\Debug\net9.0\refint\M
 C:\Users\kenya\CS320_PracticeCookBookApp\MyCookBookApi\obj\Debug\net9.0\MyCookBookApi.pdb
 C:\Users\kenya\CS320_PracticeCookBookApp\MyCookBookApi\obj\Debug\net9.0\MyCookBookApi.genruntimeconfig.cache
 C:\Users\kenya\CS320_PracticeCookBookApp\MyCookBookApi\obj\Debug\net9.0\ref\MyCookBookApi.dll
+C:\Users\kenya\CS320_PracticeCookBookApp\MyCookBookApi\obj\Debug\net9.0\MyCookBookApi.sourcelink.json
